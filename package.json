@@ -1,0 +1,25 @@
+{
+  "name": "jquery-linedtextarea",
+  "version": "1.0.0",
+  "description": "Displays a line number count column to the left of the textarea",
+  "main": "jquery-linedtextarea.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rne/jquery-linedtextarea"
+  },
+  "author": "Alan Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rne/jquery-linedtextarea/issues"
+  },
+  "homepage": "http://alan.blog-city.com/jquerylinedtextarea.htm",
+   "dependencies": {
+    "jquery": ">=1.3"
+  }
+}
